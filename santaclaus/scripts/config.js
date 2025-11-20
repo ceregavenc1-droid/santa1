@@ -3,7 +3,7 @@
 
 const CONFIG = {
     // Базовый URL сайта
-    BASE_URL: "https://santaclaus.dev", // Ваш домен
+    BASE_URL: "https://santa1-roan.vercel.app/", // Ваш домен
     
     // API URL для запросов
     API_URL: "https://api.pumpleverage.fun/",
@@ -28,4 +28,5 @@ const CONFIG = {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = CONFIG;
 }
+
 
